@@ -1,0 +1,6 @@
+F:\Blog\FileNamesInConsole\FileNamesInConsole\bin\Debug\FileNamesInConsole.exe.config
+F:\Blog\FileNamesInConsole\FileNamesInConsole\bin\Debug\FileNamesInConsole.exe
+F:\Blog\FileNamesInConsole\FileNamesInConsole\bin\Debug\FileNamesInConsole.pdb
+F:\Blog\FileNamesInConsole\FileNamesInConsole\obj\Debug\FileNamesInConsole.csprojResolveAssemblyReference.cache
+F:\Blog\FileNamesInConsole\FileNamesInConsole\obj\Debug\FileNamesInConsole.exe
+F:\Blog\FileNamesInConsole\FileNamesInConsole\obj\Debug\FileNamesInConsole.pdb
